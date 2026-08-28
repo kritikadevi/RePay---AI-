@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export const getRecentPayments = async () => {
   const response = await fetch(
@@ -59,3 +59,5 @@ export const getAllPayments = async () => {
 
   return await response.json();
 };
+
+export default API_URL;
