@@ -434,9 +434,11 @@ function PaymentHistory() {
           }}
         >
 
-          <div className="logo-icon">
-            R
-          </div>
+          <img
+            className="logo-icon"
+            src="/favicon.svg"
+            alt="RePay AI logo"
+          />
 
           <span>
             RePay
