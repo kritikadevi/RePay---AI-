@@ -10,19 +10,8 @@ Instead of treating every failed payment the same way, RePay uses Machine Learni
 
 ---
 
-# Live Demo
-
-###  Frontend
-
-https://repay-ai.onrender.com
-
-###  Backend API
-
-https://repay-4teu.onrender.com
-
-###  API Documentation
-
-https://repay-4teu.onrender.com/docs
+# Live Demo 
+https://repay-ai.onrender.com/
 
 ---
 
